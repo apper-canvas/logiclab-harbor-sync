@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
       <Routes>
-        <Route path="/" element={<Home />} />
+<Route path="/" element={<HomePage />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
       
