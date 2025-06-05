@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "puzzleType": "sudoku",
+    "difficulty": "easy",
+    "gamesPlayed": 15,
+    "bestTime": 423,
+    "averageTime": 687,
+    "currentStreak": 3,
+    "longestStreak": 7
+  },
+  {
+    "id": "2",
+    "puzzleType": "sudoku",
+    "difficulty": "medium",
+    "gamesPlayed": 8,
+    "bestTime": 892,
+    "averageTime": 1245,
+    "currentStreak": 1,
+    "longestStreak": 4
+  },
+  {
+    "id": "3",
+    "puzzleType": "sudoku",
+    "difficulty": "hard",
+    "gamesPlayed": 5,
+    "bestTime": 1687,
+    "averageTime": 2134,
+    "currentStreak": 0,
+    "longestStreak": 2
+  },
+  {
+    "id": "4",
+    "puzzleType": "sudoku",
+    "difficulty": "expert",
+    "gamesPlayed": 2,
+    "bestTime": 2456,
+    "averageTime": 2678,
+    "currentStreak": 0,
+    "longestStreak": 1
+  },
+  {
+    "id": "5",
+    "puzzleType": "kenken",
+    "difficulty": "easy",
+    "gamesPlayed": 0,
+    "bestTime": 0,
+    "averageTime": 0,
+    "currentStreak": 0,
+    "longestStreak": 0
+  },
+  {
+    "id": "6",
+    "puzzleType": "kenken",
+    "difficulty": "medium",
+    "gamesPlayed": 0,
+    "bestTime": 0,
+    "averageTime": 0,
+    "currentStreak": 0,
+    "longestStreak": 0
+  },
+  {
+    "id": "7",
+    "puzzleType": "kenken",
+    "difficulty": "hard",
+    "gamesPlayed": 0,
+    "bestTime": 0,
+    "averageTime": 0,
+    "currentStreak": 0,
+    "longestStreak": 0
+  },
+  {
+    "id": "8",
+    "puzzleType": "kakuro",
+    "difficulty": "easy",
+    "gamesPlayed": 0,
+    "bestTime": 0,
+    "averageTime": 0,
+    "currentStreak": 0,
+    "longestStreak": 0
+  },
+  {
+    "id": "9",
+    "puzzleType": "kakuro",
+    "difficulty": "medium",
+    "gamesPlayed": 0,
+    "bestTime": 0,
+    "averageTime": 0,
+    "currentStreak": 0,
+    "longestStreak": 0
+  },
+  {
+    "id": "10",
+    "puzzleType": "kakuro",
+    "difficulty": "hard",
+    "gamesPlayed": 0,
+    "bestTime": 0,
+    "averageTime": 0,
+    "currentStreak": 0,
+    "longestStreak": 0
+  }
+]
