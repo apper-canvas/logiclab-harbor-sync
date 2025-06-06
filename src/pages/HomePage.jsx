@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
-    import PageLayout from '@/components/templates/PageLayout';
-    import PuzzleTemplate from '@/components/templates/PuzzleTemplate';
-
+import PageLayout from '../components/templates/PageLayout';
+import PuzzleTemplate from '../components/templates/PuzzleTemplate';
     function HomePage() {
       const [currentTab, setCurrentTab] = useState('sudoku');
       const [sidebarOpen, setSidebarOpen] = useState(false);
