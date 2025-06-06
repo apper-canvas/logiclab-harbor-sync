@@ -1,3 +1,11 @@
-export { default as puzzleService } from './api/puzzleService'
-export { default as gameSessionService } from './api/gameSessionService'
-export { default as statisticsService } from './api/statisticsService'
+import puzzleService from './api/puzzleService'
+import gameSessionService from './api/gameSessionService'
+import statisticsService from './api/statisticsService'
+import dailyChallengeService from './api/dailyChallengeService'
+
+export {
+puzzleService,
+  gameSessionService,
+  statisticsService,
+  dailyChallengeService
+}
